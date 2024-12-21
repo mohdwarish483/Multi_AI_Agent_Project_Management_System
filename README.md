@@ -41,8 +41,8 @@ This project is an **AI-Powered Project Management System** utilizing **Retrieva
 **Clone the Repository:**
 
 ```bash
-git clone https://github.com/your-username/AI_Powered_Project_Management_System_with_RAG.git
-cd AI_Powered_Project_Management_System_with_RAG
+git clone https://github.com/mohdwarish483/Multi_AI_Agent_Project_Management_System.git
+cd Multi_AI_Agent_Project_Management_System
 ```
 
 **Install the Dependencies:**
@@ -51,11 +51,13 @@ cd AI_Powered_Project_Management_System_with_RAG
 pip install -r re_new.txt
 ```
 
-**Launch the Application:**
+**Launch the Backend Application:**
 
 ```bash
 uvicorn main:app --reload
 ```
+
+**Launch Frontend by Looking instructions in **server_run_info.txt**
 
 ## **Example Output**
 
